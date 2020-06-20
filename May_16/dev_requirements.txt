@@ -1,0 +1,6 @@
+flake8==3.8.1
+flake8-polyfill==1.0.2
+mypy==0.770
+pep257==0.7.0
+radon==4.1.0
+vulture==1.4
